@@ -1,1 +1,3 @@
-# first_repo
+Hello, This is Laeeque here...
+<br>
+This is my first git-hub repository.
